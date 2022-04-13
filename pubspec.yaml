@@ -23,7 +23,9 @@ dependencies:
   in_app_purchase_android:
     git:
       url: https://github.com/bohowu/bohowu-in_app_purchase_android.git
-  in_app_purchase_ios: ^0.1.1
+  in_app_purchase_ios:
+    git:
+      url: https://github.com/bohowu/in_app_purchase_ios.git
 
 dev_dependencies:
   flutter_driver:
